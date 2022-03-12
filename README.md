@@ -13,6 +13,10 @@ Video: (Had to re-record due to audio issues. Will upload this week) <br/>
 Slide: [lecture6.pdf](https://github.com/nahid18/cobgenomics-workshop-2022/blob/master/lecture-6/lecture6.pdf) <br/>
 Data and Code: [Check here](https://github.com/nahid18/cobgenomics-workshop-2022/tree/master/lecture-6)
 
+## Download this repository
+
+To download this repository as a zipped folder, click on the green button that says `code`, then click on `Download as Zip`.
+
 ## Follow me
 
 Twitter: [@abdnahid_](https://twitter.com/abdnahid_) <br/>
