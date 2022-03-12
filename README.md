@@ -1,4 +1,4 @@
-# Community of Biotechnology Genomics Workshop 2022
+# Community of Biotechnology Genomics Learning Program 2022
 
 
 ### Lecture 1: Software in Genomics and How to install them
