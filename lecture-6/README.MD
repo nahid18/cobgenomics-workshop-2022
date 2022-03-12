@@ -20,6 +20,7 @@ conda install -c bioconda sra-tools fastqc trimmomatic megahit -y
 ```
 
 #### 4. Run the script
+The code for the microbial genome assembly process is available in the `assembly.sh` file. Open that file to see the execution code.
 ```
 bash assembly.sh
 ```
@@ -47,6 +48,7 @@ conda install -c bioconda quast -y
 ```
 
 #### 4. Run the script
+The code for the assembly quality evalution process is available in the `quality.sh` file. Open that file to see the execution code.
 ```
 bash quality.sh
 ```
