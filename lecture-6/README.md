@@ -5,7 +5,7 @@ My second lecture of the Community of Biotechnology Genomics Learning Program 20
 Video: (Had to re-record due to audio issues. Will upload this week) <br/>
 Slide: [lecture6.pdf](https://github.com/nahid18/cobgenomics-workshop-2022/blob/master/lecture-6/lecture6.pdf)
 
-## Microbial Genome Assembly
+## Method 1: Microbial Genome Assembly
 
 ### 1. Create an environment
 Create an environment with Python version 3:
@@ -40,7 +40,7 @@ bash assembly.sh
 ```
 
 
-## Assembly Quality Evaluation
+## Method 2: Assembly Quality Evaluation
 
 ### 1. Create separate environment
 Create another environment with Python version 2:
