@@ -2,6 +2,11 @@
 
 My second lecture of the Community of Biotechnology Genomics Learning Program 2022.
 
+Video: Will be uploaded soon <br/>
+Slide: [lecture6.pdf](https://github.com/nahid18/cobgenomics-workshop-2022/blob/master/lecture-6/lecture6.pdf)
+
+# Complete Process
+
 ## Microbial Genome Assembly
 
 #### 1. Create an environment
