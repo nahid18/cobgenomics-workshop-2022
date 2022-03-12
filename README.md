@@ -15,7 +15,7 @@ Data and Code: [Check here](https://github.com/nahid18/cobgenomics-workshop-2022
 
 ## Download this repository
 
-To download this repository as a zipped folder, click on the green button that says `code`, then click on `Download as Zip`.
+To download this repository, click on the green button that says `code`, then click on `Download as Zip`.
 
 ## Follow me
 
