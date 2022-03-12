@@ -1,3 +1,7 @@
+# Small Microbial Genome Assembly and Quality Evaluation
+
+My second lecture of the Community of Biotechnology Genomics Learning Program 2022.
+
 ## Microbial Genome Assembly
 
 #### 1. Create an environment
