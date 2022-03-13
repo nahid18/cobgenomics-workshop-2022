@@ -9,7 +9,7 @@ Slide: [lecture1.pdf](https://github.com/nahid18/cobgenomics-workshop-2022/blob/
 
 ### Lecture 6: Small Microbial Genome Assembly and Quality Evaluation
 
-Video: Will be uploaded soon <br/>
+Video: (Had to re-record due to audio issues. Will upload this week) <br/>
 Slide: [lecture6.pdf](https://github.com/nahid18/cobgenomics-workshop-2022/blob/master/lecture-6/lecture6.pdf) <br/>
 Data and Code: [Check here](https://github.com/nahid18/cobgenomics-workshop-2022/tree/master/lecture-6)
 

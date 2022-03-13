@@ -2,7 +2,7 @@
 
 My second lecture of the Community of Biotechnology Genomics Learning Program 2022.
 
-Video: Will be uploaded soon <br/>
+Video: (Had to re-record due to audio issues. Will upload this week) <br/>
 Slide: [lecture6.pdf](https://github.com/nahid18/cobgenomics-workshop-2022/blob/master/lecture-6/lecture6.pdf)
 
 ## Microbial Genome Assembly
