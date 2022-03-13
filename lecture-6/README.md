@@ -28,6 +28,12 @@ conda activate assembly
 conda install -c bioconda sra-tools fastqc trimmomatic megahit -y
 ```
 
+##### Learn more about the installed tools:
+sra-tools: [Paper](https://dx.doi.org/10.1093%2Fnar%2Fgkq1019) | [Documentation](https://github.com/ncbi/sra-tools#readme) <br/>
+fastqc: [Documentation](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) <br/>
+trimmomatic: [Paper](https://doi.org/10.1093/bioinformatics/btu170) | [Documentation](http://www.usadellab.org/cms/?page=trimmomatic) <br/>
+megahit: [Paper](https://doi.org/10.1093/bioinformatics/btv033) | [Documentation](https://github.com/voutcn/megahit#readme) <br/>
+
 #### 4. Run the script
 The code for the microbial genome assembly process is available in the `assembly.sh` file. Open that file to see the execution code.
 ```
@@ -55,6 +61,9 @@ conda activate quality
 ```
 conda install -c bioconda quast -y
 ```
+
+##### Learn more about the installed tool:
+quast: [Paper](https://doi.org/10.1093/bioinformatics/btt086) | [Documentation](http://quast.sourceforge.net/docs/manual.html) <br/>
 
 #### 4. Run the script
 The code for the assembly quality evalution process is available in the `quality.sh` file. Open that file to see the execution code.
